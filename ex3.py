@@ -8,7 +8,7 @@ print( "Hens", 25 + 30 / 6 )
 # Count the Roosters
 print( "Roosters", 100 - 25 * 3 % 4 )
 
-print( "Now I will count the eggs:"
+print( "Now I will count the eggs:")
 
 # Count the Eggs
 print( 3 + 2 + 1 - 5 + 4 % 2 -1 / 4 + 6 )
