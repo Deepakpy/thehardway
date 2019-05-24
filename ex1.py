@@ -5,6 +5,6 @@
 #print 'Yay! Printing.'
 #Print "I'd much rather you 'not'."
 #print 'I "said" do not touch this.'
-print "Extra Credit"
+print("Extra Credit")
 
 # URL: http://learnpythonthehardway.org/book/ex2.html
